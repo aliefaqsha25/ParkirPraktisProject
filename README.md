@@ -186,9 +186,10 @@ parkir.exe
 
 ## 👨‍💻 Pengembang
 
-**Alief Aqsha**
-**Ibnul Jawzy**
-**Nabil Al Fijar**
+- **Alief Aqsha**
+- **Ibnul Jawzy**
+- **Nabil Al Fijar**
+
 GitHub:
 https://github.com/aliefaqsha25
 
